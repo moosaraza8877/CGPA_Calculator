@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CGPA Calculator", "CGPA Calculator\CGPA Calculator.csproj", "{AE82FC23-03F1-4A00-B781-6BF1FAB8C78F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{C74580E9-9CE6-44CF-A16D-29464FDBEEFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE82FC23-03F1-4A00-B781-6BF1FAB8C78F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE82FC23-03F1-4A00-B781-6BF1FAB8C78F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE82FC23-03F1-4A00-B781-6BF1FAB8C78F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE82FC23-03F1-4A00-B781-6BF1FAB8C78F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C74580E9-9CE6-44CF-A16D-29464FDBEEFB}.Debug|Any CPU.ActiveCfg = Debug
+		{C74580E9-9CE6-44CF-A16D-29464FDBEEFB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAB1757A-C6FF-4750-ADA9-D3C3C481104F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,20 @@
+C:\Users\Moosa Raza\Documents\Programming\CGPA Calculator\CGPA Calculator\bin\Debug\CGPA Calculator.exe.config
+C:\Users\Moosa Raza\Documents\Programming\CGPA Calculator\CGPA Calculator\bin\Debug\CGPA Calculator.exe
+C:\Users\Moosa Raza\Documents\Programming\CGPA Calculator\CGPA Calculator\bin\Debug\CGPA Calculator.pdb
+C:\Users\Moosa Raza\Documents\Programming\CGPA Calculator\CGPA Calculator\obj\Debug\CGPA Calculator.csprojAssemblyReference.cache
+C:\Users\Moosa Raza\Documents\Programming\CGPA Calculator\CGPA Calculator\obj\Debug\CGPA_Calculator.Form1.resources
+C:\Users\Moosa Raza\Documents\Programming\CGPA Calculator\CGPA Calculator\obj\Debug\CGPA_Calculator.Properties.Resources.resources
+C:\Users\Moosa Raza\Documents\Programming\CGPA Calculator\CGPA Calculator\obj\Debug\CGPA Calculator.csproj.GenerateResource.cache
+C:\Users\Moosa Raza\Documents\Programming\CGPA Calculator\CGPA Calculator\obj\Debug\CGPA Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Moosa Raza\Documents\Programming\CGPA Calculator\CGPA Calculator\obj\Debug\CGPA Calculator.exe
+C:\Users\Moosa Raza\Documents\Programming\CGPA Calculator\CGPA Calculator\obj\Debug\CGPA Calculator.pdb
+C:\Users\Moosa Raza\Documents\Programming\C# Programming\CGPA Calculator\CGPA Calculator\bin\Debug\CGPA Calculator.exe.config
+C:\Users\Moosa Raza\Documents\Programming\C# Programming\CGPA Calculator\CGPA Calculator\bin\Debug\CGPA Calculator.exe
+C:\Users\Moosa Raza\Documents\Programming\C# Programming\CGPA Calculator\CGPA Calculator\bin\Debug\CGPA Calculator.pdb
+C:\Users\Moosa Raza\Documents\Programming\C# Programming\CGPA Calculator\CGPA Calculator\obj\Debug\CGPA Calculator.csprojAssemblyReference.cache
+C:\Users\Moosa Raza\Documents\Programming\C# Programming\CGPA Calculator\CGPA Calculator\obj\Debug\CGPA_Calculator.Form1.resources
+C:\Users\Moosa Raza\Documents\Programming\C# Programming\CGPA Calculator\CGPA Calculator\obj\Debug\CGPA_Calculator.Properties.Resources.resources
+C:\Users\Moosa Raza\Documents\Programming\C# Programming\CGPA Calculator\CGPA Calculator\obj\Debug\CGPA Calculator.csproj.GenerateResource.cache
+C:\Users\Moosa Raza\Documents\Programming\C# Programming\CGPA Calculator\CGPA Calculator\obj\Debug\CGPA Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Moosa Raza\Documents\Programming\C# Programming\CGPA Calculator\CGPA Calculator\obj\Debug\CGPA Calculator.exe
+C:\Users\Moosa Raza\Documents\Programming\C# Programming\CGPA Calculator\CGPA Calculator\obj\Debug\CGPA Calculator.pdb
